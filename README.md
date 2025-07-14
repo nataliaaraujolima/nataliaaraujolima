@@ -16,5 +16,5 @@
 
 ## 📫 Contato
 
-- **Email**: [cmatalia24@gmail.com](mailto:cmatalia24@gmail.com)  
+- **Email**: [cnnatalia24@gmail.com](mailto:cnnatalia24@gmail.com)  
 - **LinkedIn**: [Clícia Natália]([https://www.linkedin.com/in/clícia-natália](https://www.linkedin.com/in/nataliaaraujolima/))  

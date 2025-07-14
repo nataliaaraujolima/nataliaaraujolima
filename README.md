@@ -1,6 +1,6 @@
 # Clícia Natália Araújo Lima
 
-👋 Olá! Sou **Engenheira de Software** com foco em desenvolvimento **Front-End** e **Mobile**, especializada em React, React Native e TypeScript. Apaixonada por performance, boas práticas de código e automação de processos.
+👋 Olá! Sou **Engenheira de Software** com foco em desenvolvimento **Front-End** e **Mobile**, especializada em React, React Native e TypeScript.
 
 ## 💻 Habilidades Técnicas
 
